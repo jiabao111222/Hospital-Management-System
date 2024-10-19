@@ -1,0 +1,37 @@
+201	Emergency	 Lee Jia Jia	36.6	Dr.Mahaha	01/01/0001
+202	Normal	 	 Lee Jian Jian	38	Dr.Harap	01/02/2011
+203	normal	 	 Lee Jia Jian	39	Dr.Majaja	03/03/2003
+204	emergency	 Lee Jian Jia	40	Dr.Maaf		04/04/2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+202	Emergency	Lee Jia Jia	36.7	Dr Mahaha	23/05/2023
